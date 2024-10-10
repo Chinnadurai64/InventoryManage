@@ -1,0 +1,2 @@
+# InvenManage
+ Django Application
